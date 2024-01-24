@@ -31,7 +31,7 @@ const Contact = () => {
               <h1 className="sub-title text-white">Contact Me</h1>
               <p>
                 <FaRegPaperPlane className="fas fa-paper-plane text-[#00f8ae]  " />
-                codewithabdur.react@gmail.com
+                example@gmail.com
               </p>
               <p>
                 <FaMobileAlt className="fas fa-mobile-screen-button text-[#00f8ae] " />

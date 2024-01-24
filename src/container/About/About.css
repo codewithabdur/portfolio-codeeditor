@@ -1,0 +1,22 @@
+.tab-links{
+     position: relative;
+}
+
+.tab-links::after{
+    content: '';
+    width: 0;
+    height: 3px;
+    background: #00f8ae;
+    position: absolute;
+    left: 0;
+    bottom: -8px;
+    transition: 0.5s;
+}
+
+.tab-links.active-link::after{
+width: 80%;
+}
+
+.dropShadowbg{
+    filter: drop-shadow(4px 4px 4px   #1d1b1b);
+}

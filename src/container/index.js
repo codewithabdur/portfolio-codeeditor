@@ -1,0 +1,6 @@
+export { default as CodeInputPage } from "./CodeInputPage/CodeInputPage"
+export { default as About } from "./About/About"
+export { default as Services } from "./Services/Services"
+export { default as Portfolio } from "./Porfolio/Portfolio"
+export { default as PortfolioList } from "./Porfolio/PorfolioList"
+export { default as Contact } from "./Contact/Contact"
